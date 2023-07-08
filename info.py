@@ -1,1 +1,1 @@
-print("Python 3 info")
+print("PYTHON 3 info")
